@@ -27,7 +27,7 @@
     "@sanity/desk-tool": "^2.0.9",
     "@sanity/google-maps-input": "^2.0.9",
     "@sanity/vision": "^2.0.9",
-    "aws-sdk": "^2.550.0",
+    "aws-sdk": "^2.814.0",
     "prop-types": "^15.7.2",
     "react": "^16.2",
     "react-dom": "^16.2",
